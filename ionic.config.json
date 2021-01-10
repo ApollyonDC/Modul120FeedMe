@@ -1,0 +1,7 @@
+{
+  "name": "FeedMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
